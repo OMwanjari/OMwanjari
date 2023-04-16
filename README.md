@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OMwanjari
-- 👀 I’m interested in data science , machine learning , cloud 
-- 🌱 I’m currently learning data science & cloud 
+- 👀 I’m interested in data science , machine learning , cloud , Flutter
+- 🌱 I’m currently learning Flutter ,data science & cloud 
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me at omwanjari225@gmail.com
 
